@@ -18,4 +18,4 @@ It also allows users to track their steps by using a pedometer. Users can also w
 
 ## Sequence Diagram:
 !. Login Page :
-![My Image](downloads/login sequence (1).jpg)
+![login sequence (1)](https://user-images.githubusercontent.com/111743104/216528822-32c32b00-dc40-4c24-9066-062011ace31d.jpg)
