@@ -17,3 +17,5 @@ It also allows users to track their steps by using a pedometer. Users can also w
 >	Plan: Here users can write down their morning and evening plans and follow those plans to stay on the targeted calories. 
 
 ## Sequence Diagram:
+!. Login Page :
+![My Image](login sequence (1).jpg)
