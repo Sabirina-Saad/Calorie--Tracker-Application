@@ -16,6 +16,7 @@ It also allows users to track their steps by using a pedometer. Users can also w
 4. Activity: This page will be connected to a pedometer which will help users to count their steps and show the amount of burned calories. (prepared by : Sabirin-1835578)
 5. Plan: Here users can write down their morning and evening plans and follow those plans to stay on the targeted calories. (prepared by: Akter(1822794).
 6. Profile: This page will allow users to enter their personal details such as their name, age, height, weight ect. and allow users to logout from the application. (prepared by: Akter(1822794).
+7.Welcome Page(main file) : consists the logo for the application and the login and siginup buttons that user navigates to the application.(prepared by : Sabirin-1835578).
 
 
 
