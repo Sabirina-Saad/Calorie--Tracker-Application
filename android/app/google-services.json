@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "266778523987",
+    "project_id": "calorie-tracker-app-5e613",
+    "storage_bucket": "calorie-tracker-app-5e613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266778523987:android:21b6a4f1ec331aca5189a6",
+        "android_client_info": {
+          "package_name": "com.example.calrie_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266778523987-ifhsaav4higcsflu0lnr2mh7jdriu43h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calrie_tracker_app",
+            "certificate_hash": "6e9a8a0004caf733f34d50e69bfa9da8a4c7a9ab"
+          }
+        },
+        {
+          "client_id": "266778523987-magnhkkn2a2v68hq2j339bsr2tpiuj5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjjZfMNuxcyawjJXyu7UGm9r8DtRNbjCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266778523987-magnhkkn2a2v68hq2j339bsr2tpiuj5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
