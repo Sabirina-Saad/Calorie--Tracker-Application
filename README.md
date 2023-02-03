@@ -17,14 +17,14 @@ It also allows users to track their steps by using a pedometer. Users can also w
 5. Plan: Here users can write down their morning and evening plans and follow those plans to stay on the targeted calories. 
 
 ## Sequence Diagram:
--1.Login Page :
+1.Login Page :
 
 ![login sequence (1)](https://user-images.githubusercontent.com/111743104/216528822-32c32b00-dc40-4c24-9066-062011ace31d.jpg)
 
--2.Signup Page
+2.Signup Page
 
 ![signup](https://user-images.githubusercontent.com/111743104/216529079-852d1fdb-0c6f-4bfb-806e-562f8d1ae697.jpg)
 
--3. Dashboard Page
+3. Dashboard Page
 ![WhatsApp Image 2023-02-03 at 10 02 15 AM](https://user-images.githubusercontent.com/111743104/216529172-f2d81780-d1bb-4037-85aa-199dcc8dae37.jpeg)
 
