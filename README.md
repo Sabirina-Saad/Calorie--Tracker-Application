@@ -10,11 +10,11 @@ It also allows users to track their steps by using a pedometer. Users can also w
 -The main goal of this application is to allow users to track their daily calorie intakes and steps in order to stay healthy and fit. Users are going to set a target calories intake and their goal is to eat the food without those calories. Moreover, step trackers will help users to track how much calories they have burned to stay within the targeted calories. Additionally, users also can write down their morning and evening plans on the plan page and follow the plan for their daily meals and exercises. Therefore, users can remain healthy and fit if they follow the targeted calorie and exercise plans. 
 
 ## Feature and functionalities:
->	Sign In/ Login: User can enter their username/ email and password to sign in or login into the application. 
-> Dashboard: This page will show the total calorie intake, exercises, foods as well as the remaining calories . Moreover, there will be two on this page. If the user clicks the steps button then it will redirect users to the activity page and if they click the calorie button then they will be redirected to the diary page. 
->	Diary: Users will add their meals such as- breakfast, lunch, dinner and the amount of calories of those meals will be added and calculate how many calories  they have taken in a day. 
->Activity: This page will be connected to a pedometer which will help users to count their steps and show the amount of burned calories. 
->	Plan: Here users can write down their morning and evening plans and follow those plans to stay on the targeted calories. 
+1.	Sign In/ Login: User can enter their username/ email and password to sign in or login into the application. 
+2. Dashboard: This page will show the total calorie intake, exercises, foods as well as the remaining calories . Moreover, there will be two on this page. If the user clicks the steps button then it will redirect users to the activity page and if they click the calorie button then they will be redirected to the diary page. 
+3. Diary: Users will add their meals such as- breakfast, lunch, dinner and the amount of calories of those meals will be added and calculate how many calories  they have taken in a day. 
+4. Activity: This page will be connected to a pedometer which will help users to count their steps and show the amount of burned calories. 
+5. Plan: Here users can write down their morning and evening plans and follow those plans to stay on the targeted calories. 
 
 ## Sequence Diagram:
 -1.Login Page :
